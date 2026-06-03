@@ -27,14 +27,15 @@
 }
 
 .home .img-home .img-box {
-    padding: 15px;
-    border-radius: 5px;
-    text-align: center;
+    max-width: 450px;
+    margin: auto;
+    border-radius: 50%;
 }
 
 .home .img-home .img-box img {
-    border: 10px solid transparent;
-    border-radius: 5px;
+    width: 100%;
+    border-radius: 50%;
+    border: 20px solid transparent;
 }
 
 .home .texto-home p {
