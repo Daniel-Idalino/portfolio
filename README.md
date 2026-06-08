@@ -1,3 +1,4 @@
+![Maturidade do Projeto](https://img.shields.io/badge/maturidade-beta-yellow)
 # Portfólio Profissional - Daniel Idalino
 
 ## Sobre o Projeto
